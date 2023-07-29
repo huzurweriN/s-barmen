@@ -1,0 +1,21 @@
+---------------------------------- ENGLISH -------------------------------------------
+Locales["en_lang"] = {
+    openBarMenu = 'Open Bar Menu',
+    menuTitle = 'Bar Menu',
+    qty = 'Enter quantity',
+    confirm = 'Confirm',
+    Bar = 'Bar',
+    product = 'Product:',
+    cost = 'Cost:',
+    buy = 'Buy Success',
+    buyerror = 'No Money',
+    drinks = 'Drinks',
+    foods = 'Foods',
+    other = 'Others',
+    drinks_desc = 'Drinks here',
+    foods_desc = 'Foods here',
+    other_desc = 'Others here',
+    drinkprepare = 'Drink Prepairing',
+    foodprepare = 'Food Prepairing',
+    otherprepare = 'Other Prepairing',
+}
