@@ -1,0 +1,21 @@
+---------------------------------- DUTCH -------------------------------------------
+Locales["nl_lang"] = {
+    openBarMenu = 'Open Bar Menu',
+    menuTitle = 'Bar Menu',
+    qty = 'Vul hoeveelheid in',
+    confirm = 'Bevestig',
+    Bar = 'Bar',
+    product = 'Product:',
+    cost = 'Prijs:',
+    buy = 'Succesvol gekocht',
+    buyerror = 'Niet genoeg geld',
+    drinks = 'Drinken',
+    foods = 'Eten',
+    other = 'Andere',
+    drinks_desc = 'Drinken hier',
+    foods_desc = 'Eten hier',
+    other_desc = 'Andere hier',
+    drinkprepare = 'Drankje word gemaakt',
+    foodprepare = 'Eten word gemaakt',
+    otherprepare = 'Andere word gemaakt',
+}
