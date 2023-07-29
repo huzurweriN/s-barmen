@@ -17,3 +17,4 @@
  ## Dependency
  - VORP-Core
  - BCC-Utils
+ - menuapi (vorp_menu)
